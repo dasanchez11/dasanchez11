@@ -2,7 +2,7 @@
 ### I am :computer: Full Stack developer, :brain: Machine Learning enthusiast and :moneybag: Finance graduate
 
 Portfolio:
-https://github.com/dasanchez11/dasanchez11/blob/main/README.md
+https://zealous-tesla-e014fe.netlify.app/
 
 ##### Full Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
