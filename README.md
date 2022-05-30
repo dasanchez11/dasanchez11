@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### I am :computer: Full Stack developer, :brain: Machine Learning enthusiast and :moneybag: Finance graduate
 
+Portfolio:
+https://github.com/dasanchez11/dasanchez11/blob/main/README.md
+
 ##### Full Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
